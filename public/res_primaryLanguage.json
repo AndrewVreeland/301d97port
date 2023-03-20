@@ -81,37 +81,45 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "title": "Full-Stack Developer",
+        "years": "01.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+        "RxJS",
+        "JavaScript", 
+        "Java",
+        "CSS",
+        "HTML6",
+        "BootStrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "UnitedStates AirForce",
+        "title": "Avionics Expeditor",
+        "years": "01.2018 - 09.2022",
         "mainTech": [
-          "Angular 7/8"
+          "F-16 Avionics"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Aviation systems info",
+          "communications"
+        
+        ]
+      },
+      {
+        "company": "UnitedStates Marine Corps",
+        "title": "Infantry Team Leader",
+        "years": "01.2014 - 09.2018",
+        "mainTech": [
+          "Infantry Assaultmen"
+        ],
+        "technologies": [
+          "Explosive ordiance handling",
+          "weapons expertise",
+          "hand to hand combat"
+        
         ]
       }
     ]
