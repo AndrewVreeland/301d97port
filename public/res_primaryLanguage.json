@@ -37,10 +37,10 @@
       {
         "title": "Photography",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "A quirky project that was put together in class. Try some of the Delicious Salmon Cookies! :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/three.png",
+          "images/four.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Off-Grid-Odyssey",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "A fun exciting text base adventure, this is the very first app I built with a small team of four. we built this app in a mere five days!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/one.png",
+          "images/two.png"
         ],
         "url": "https://github.com",
         "technologies": [
